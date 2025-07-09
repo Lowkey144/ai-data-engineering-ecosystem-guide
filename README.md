@@ -1,6 +1,8 @@
 # ai-data-engineering-ecosystem-guide
 A comprehensive reference guide mapping the entire AI, Machine Learning, Data Science, and Data Engineering ecosystem—with categorized tools, libraries, workflows, and Python usage.
 
+![AI_Data_Hierarchy_with_Tools](https://github.com/user-attachments/assets/589e9101-d5b2-41b5-a530-03a29a9c6b24)
+
 
 # Full Hierarchy of AI, Data Science, Data Engineering (with Tools and Libraries)
 

